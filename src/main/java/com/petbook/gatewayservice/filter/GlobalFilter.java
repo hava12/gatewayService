@@ -1,4 +1,4 @@
-package com.filming.gatewayservice.filter;
+package com.petbook.gatewayservice.filter;
 
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;

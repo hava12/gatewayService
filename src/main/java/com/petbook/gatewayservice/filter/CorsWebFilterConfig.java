@@ -1,4 +1,4 @@
-package com.filming.gatewayservice.filter;
+package com.petbook.gatewayservice.filter;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
